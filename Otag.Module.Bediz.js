@@ -6,7 +6,7 @@
 */
 "use strict";
 if(!window.Otag){
-	throw new Error('Otag Framework didn\'t loaded,\nUse Bediz standalone( http://bit.ly/2wqgPwW ) or load Otag( http://bit.ly/2vhTAQu ) correctly')
+	throw new Error('Otag Framework didn\'t loaded,\nUse Bediz standalone( http://bit.ly/2vYoGyF ) or load Otag( http://bit.ly/2v8UteQ ) correctly')
 }
 Otag.Module.Bediz={
 	ilgiWeight:function(w,h){
