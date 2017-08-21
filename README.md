@@ -1,8 +1,12 @@
+![Bediz Logo](https://ilgilenio.github.io/Bediz/bediz.png)
 # Bediz Photo Grid
 Bediz is a simple lightweight JavaScript grid layout library. 
 It places pictures vertically without ruining pictures ratio and your bandwith
-![Bediz Logo](https://ilgilenio.github.io/Bediz/bediz.png)
+
 ![Bediz Sample](https://ilgilenio.github.io/Bediz/sample.png)
+
+## Demo
+[Bediz Demo](https://ilgilenio.github.io/Bediz/sample.html)
 
 ## Installation
 **Bediz** can be used with **Otag Framework** or **standalone**
